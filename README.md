@@ -1,16 +1,14 @@
-# fourd
+# Four Diary
 
-A new Flutter project.
+Four Diary is a simple Flutter photo diary app that helps users capture everyday moments in a four-cut style.
 
-## Getting Started
+## Built with
 
-This project is a starting point for a Flutter application.
+- Flutter
+- Dart
 
-A few resources to get you started if this is your first Flutter project:
+### Current Progress
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Basic project setup complete
+- Emulator run confirmed
+- Image picker and save flow in progress
